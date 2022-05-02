@@ -5,7 +5,7 @@ If you use MultiMatch in published work, please cite the relevant papers:
   * Dewhurst, R.; Nyström, M.; Jarodzka, H.; Foulsham, T.; Johansson, R. & Holmqvist, K. It depends on how you look at it: Scanpath comparison in multiple dimensions with MultiMatch, a vector-based approach Behavior Research Methods, Springer, 2012, 1-22
   * Foulsham, T., Dewhurst, R., Nyström, M., Jarodzka, H., Johansson, R., Underwood, G. & Holmqvist, K. (2012). Comparing scanpaths during scene encoding and recognition: A multi-dimensional approach. Journal of Eye Movement Research, 5, 1-14.
 
-DUE TO MANY REQUESTS, THIS CODE IS DELIVERED 'AS IS' AS A SERVICE TO THE COMMUNITY. WE DO NOT SUPPORT IT.
+DUE TO MANY REQUESTS, THIS CODE HAS BEEN MADE PUBLICLY AVAILABLE ON GITHUB. IT IS DELIVERED 'AS IS' AS A SERVICE TO THE COMMUNITY. WE DO NOT SUPPORT IT.
 
 
 **Data disclaimer, limitations and conditions of release**
